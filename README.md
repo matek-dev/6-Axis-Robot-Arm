@@ -1,5 +1,9 @@
 # Arduino-Robot-Arm
 
+
+![image](https://github.com/matek-dev/Arduino-Robot-Arm/assets/137855238/4bdfd85c-0569-41df-93ef-66a9be137099)
+
+
 The Purpose of this project is to develop expertise in multidisciplines of robotics.
 
 -Design (Solidworks, 3D Printing)  
