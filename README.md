@@ -32,6 +32,8 @@ The **6-Axis Robotic Arm** is a custom-designed robotic manipulator featuring 3D
 - The user could send motion commands and monitor the arm’s status in real time.
 - The Raspberry Pi communicated with the microcontroller via **Bluetooth**, enabling remote control.
 
+<img width="416" alt="Screen Shot 2025-04-01 at 6 46 24 PM" src="https://github.com/user-attachments/assets/7ccba2fa-2a91-4489-bd65-d966591aaa47" />
+
 ### **Phase 5: ROS Integration (Ongoing Development)**
 
 - The system is being integrated with **ROS Noetic/ROS2 Humble**, allowing for scalable and modular control.
